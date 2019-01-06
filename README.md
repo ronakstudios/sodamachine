@@ -1,9 +1,9 @@
 # Soda Machine
 This is a project I worked on for Honors Intro to Engineering. 
-All parts of this project were created soley by myself. The 
-code for the project is not shown, but the final presentation
+All parts of this project were created soley by myself. Some of the 
+code for the project is not shown since I do not want to relase it and some of it contains private keys, but the final presentation
 is included. 
-This project was made using Arduino, Raspberry PI (Debian), Android, Tizen OS, Firebase, and Clarifai in a variety of languages. This repo is only the github file that was hosted online and used to authenticate the android app.
+This project was made using Arduino, Raspberry PI (Debian), Android, Tizen OS, Firebase, and Clarifai in a variety of languages. 
 To understand what the project was about and what
 technologies were involved, please view the presentation. (Click View Raw On The .pptx file to download the presentation).
 If you have any questions, or would like me to explain the project, please contact me at:
