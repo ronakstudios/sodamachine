@@ -1,7 +1,7 @@
 # Soda Machine
 This is a project I worked on for Honors Intro to Engineering. 
 All parts of this project were created soley by myself. Some of the 
-code for the project is not shown since I do not want to relase certian parts of it and some of it contains private keys, but the final presentation
+code (such as executable JAR files and .java files) for the project is not shown since I do not want to relase it publicly as it contains private keys and I do not want other people copying my work, but the final presentation
 is included. 
 This project was made using Arduino, Raspberry PI (Debian), Android, Tizen OS, Firebase, and Clarifai in a variety of languages. 
 To understand what the project was about and what
